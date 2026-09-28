@@ -136,3 +136,26 @@
   - 理由: データ取得不可
 - ➖ **4935.T** (Long) : **エラー**
   - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+---
+## 🏁 本日のAIトレード検証結果 (勝率: 0.0%)
+- ➖ **6904.T** (Long) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **7256.T** (Long) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **4960.T** (Long) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **3856.T** (Short) : **エラー**
+  - 理由: データ取得不可
+- ➖ **4052.T** (Short) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **4548.T** (Short) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **5588.T** (Short) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **7897.T** (Long) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+- ➖ **6533.T** (Long) : **エラー**
+  - 理由: データ取得不可
+- ➖ **4935.T** (Long) : **エラー**
+  - 理由: API一括評価失敗: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
